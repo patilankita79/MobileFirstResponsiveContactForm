@@ -7,6 +7,7 @@ Include font-awesome CSS and animate.css from following sources:<br/>
 <a href="https://www.bootstrapcdn.com/fontawesome/">Bootstrap CDN</a> <br/>
 <a href="https://cdnjs.com/libraries/animate.css/">Animate CSS CDN</a>
 <br/>
+<br/>
 To use animate.css in your website, simply drop the stylesheet into your document's <head>, and add the class animated to an element, along with any of the animation names.
 <hr>
 <h3>UI for wide screens</h3>
