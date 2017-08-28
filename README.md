@@ -6,3 +6,9 @@ Contact form is designed using Mobile First responsive approach. CSS3 Grid layou
 Include font-awesome CSS and animate.css from following sources:<br/>
 <a href="https://www.bootstrapcdn.com/fontawesome/">Bootstrap CDN</a> <br/>
 <a href="https://cdnjs.com/libraries/animate.css/">Animate CSS CDN</a>
+<hr>
+<h3>UI for wide screens</h3>
+<img src="https://github.com/patilankita79/MobileFirstResponsiveContactForm/blob/master/Screenshots/UI%20for%20wide%20screens.png" />
+<hr>
+<h3>UI for mobile screens</h3>
+<img src="https://github.com/patilankita79/MobileFirstResponsiveContactForm/blob/master/Screenshots/UI%20for%20Mobile%20Screen.png" />
